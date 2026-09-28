@@ -1,0 +1,12 @@
+# DeepScrape
+> Autonomous multi-platform web scraping and intelligence engine for AI agents.
+
+## Core Capabilities
+- Ingestion across 16 major platforms (LinkedIn, Twitter, Reddit, GitHub, YouTube, Facebook, Instagram, XiaoHongShu, Bilibili, V2EX, Xueqiu, Xiaoyuzhou, RSS, Web).
+- Intelligent routing via OpenCLI, MCP, dedicated CLIs, and direct API fallbacks.
+- Non-destructive diagnostic doctor: `deepscrape doctor`.
+- Zero-config web extraction: `curl -s "https://r.jina.ai/<URL>"`.
+- AI Semantic Search: `mcporter call exa.web_search_exa query="<QUERY>" numResults=5`.
+
+## Repository
+https://github.com/vineelakash/deep-scrape
